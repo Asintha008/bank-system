@@ -3,7 +3,7 @@
 #include<string.h>//declares the set of functions to work string.
 
 int main_exit;//global variable declararion
-
+        
 float interest(float t,float amount,int rate);//interest function declaration
 void newacc();//newacc function declaration
 void update();//update function declaration
@@ -36,7 +36,7 @@ struct{
     }add,upd,check,rem,transaction;// declare variable for the structure
 
 
-//...........main function definition..............
+//........main function definition..........
     int main()
 {
   
